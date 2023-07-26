@@ -10,4 +10,5 @@
 4. Create the model with calling `nn.Module`(Class) (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/ANN_architecture_calling_nn_Module.ipynb`)
 
 
-5. Training the model with the previous architecture
+
+5. Training the model with the previous architecture(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Train_ANN_with_calling_simple_nn_Module.ipynb`)
