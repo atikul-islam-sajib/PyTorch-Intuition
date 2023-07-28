@@ -14,6 +14,7 @@
 * . Training the model with the previous architecture(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Train_ANN_with_calling_simple_nn_Module.ipynb`)
 
 
+
 * . Comparision with TensorFlow & PyTorch Model(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Comparison_with_Tensorflow_with_PyTorch_.ipynb`)
 
 
