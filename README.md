@@ -21,6 +21,6 @@
 * . Create an Simple model with KFold - 5 (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Simmple_ANN_architecture_with_KFold_5.ipynb`)
 
 
-7. Introduce the Dropout Layer (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Simmple_ANN_architecture_with_KFold_5_with_Dropout.ipynb`)
+* . Introduce the Dropout Layer (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Simmple_ANN_architecture_with_KFold_5_with_Dropout.ipynb`)
 
 
