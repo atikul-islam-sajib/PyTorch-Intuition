@@ -17,6 +17,6 @@
 5. Comparision with TensorFlow & PyTorch Model(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Comparison_with_Tensorflow_with_PyTorch_.ipynb`)
 
 
-6. Create an sequential Simple model
+6. Create an Simple model with KFold - 5 (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Simmple_ANN_architecture_with_KFold_5.ipynb`)
 
 
