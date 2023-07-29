@@ -27,3 +27,19 @@
 * . Regularization (L1 & L2) : (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Regularization_L1_%26_L2_in_Pytorch.ipynb`)
 
 
+
+* . Batch Normalization
+
+
+
+* . Early stopping
+
+
+
+* . Check point Initialization
+
+
+
+* . Regression Problem 
+
+
