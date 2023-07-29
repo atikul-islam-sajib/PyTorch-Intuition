@@ -40,6 +40,17 @@
 
 
 
-* . Regression Problem 
+* . Regression Problem
+
+
+
+* . Simple Project on Classification
+
+
+
+* . Simple project on Regression
+
+
+* . Simple Sequential Model Intuition 
 
 
