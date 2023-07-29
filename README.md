@@ -24,3 +24,6 @@
 * . Introduce the Dropout Layer (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Simmple_ANN_architecture_with_KFold_5_with_Dropout.ipynb`)
 
 
+* . Regularization (L1 & L2) : (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Regularization_L1_%26_L2_in_Pytorch.ipynb`)
+
+
