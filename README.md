@@ -28,7 +28,7 @@
 
 
 
-* . Batch Normalization
+* . Batch Normalization (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Batch_Normalization.ipynb`)
 
 
 
