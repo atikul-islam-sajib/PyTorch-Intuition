@@ -32,7 +32,7 @@
 
 
 
-* . Early stopping
+* . Early stopping(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Early_Stopping_in_PyTorch.ipynb`)
 
 
 
