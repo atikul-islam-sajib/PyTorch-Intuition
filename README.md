@@ -40,7 +40,7 @@
 
 
 
-* . Regression Problem
+* . Regression Problem (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Regression_in_PyTorch.ipynb`)
 
 
 
