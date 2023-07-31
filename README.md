@@ -45,7 +45,7 @@
 
 
 
-* . Simple Project on Classification
+* . Simple Project on Classification(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Airline%20(1).ipynb`)
 
 
 
