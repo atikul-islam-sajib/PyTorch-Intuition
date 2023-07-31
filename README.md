@@ -37,7 +37,7 @@
 
 
 
-* . Check point Initialization
+* . Check point Initialization(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Model_Checkpoint_in_PyTorch.ipynb`)
 
 
 
