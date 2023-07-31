@@ -16,6 +16,12 @@
 
 
 
+
+* . Weight Initialization
+
+
+
+
 * . Comparision with TensorFlow & PyTorch Model(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Comparison_with_Tensorflow_with_PyTorch_.ipynb`)
 
 
