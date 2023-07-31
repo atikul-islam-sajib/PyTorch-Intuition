@@ -1,6 +1,7 @@
 # PyTorch-Intuition
 
-#### ANN Part #####
+#### ANN PART #####
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * . DataLoader Liabray determines - batch size data which is used to train the model. (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/2_Pytorch_DataLoader.ipynb`)
 
@@ -51,6 +52,11 @@
 * . Simple project on Regression
 
 
-* . Simple Sequential Model Intuition 
+* . Simple Sequential Model Intuition
+
+
+
+### CNN PART ###
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
