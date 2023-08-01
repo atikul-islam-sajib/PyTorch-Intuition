@@ -18,7 +18,7 @@
 
 
 
-* . Weight Initialization
+* . Weight Initialization(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Airline_Prediction_weight_Initialization.ipynb`)
 
 
 
@@ -69,6 +69,11 @@
 
 
 * . Simple project on Regression
+
+
+
+
+* . CUDA/GPU Initization 
 
 
 
