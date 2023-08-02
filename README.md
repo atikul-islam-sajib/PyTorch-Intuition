@@ -73,7 +73,7 @@
 
 
 
-* . CUDA/GPU Initization 
+* . CUDA/GPU Initization(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/GPU_CUDA_connect_in_PyTorch.ipynb`)
 
 
 
