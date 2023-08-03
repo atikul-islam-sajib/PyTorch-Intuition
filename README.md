@@ -68,7 +68,7 @@
 
 
 
-* . Simple project on Regression
+* . Simple project on Regression('https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Regression_project_in_PyTorch.ipynb')
 
 
 
