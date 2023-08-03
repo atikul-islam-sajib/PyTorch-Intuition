@@ -78,7 +78,7 @@
 
 
 
-* . Simple Sequential Model Intuition(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Create_a_sequential_model_in_PyTorch.ipynb`)
+* . Simple Sequential Model Intuition(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Create_a_sequential_model_in_PyTorch.ipynb`) & (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Create_a_sequential_model_in_PyTorch_new.ipynb`)
 
 
 
