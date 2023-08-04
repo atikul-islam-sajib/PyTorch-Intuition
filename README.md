@@ -86,6 +86,10 @@
 
 
 
+16.3 Simple Sequential Model Intuition ...(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Crab_age_prediction_in_Pytorch.ipynb`) 
+
+
+
 ### CNN PART ###
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
