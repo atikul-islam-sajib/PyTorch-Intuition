@@ -92,5 +92,8 @@
 
 ### CNN PART ###
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Simple CNN architecture without calling Sequential & GPU (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Simple_CNN_architecture_without_calling_Sequential_model_in_PyTorch.ipynb`)
 
+
+2. Simple CNN architecture with Calling GPU
 
