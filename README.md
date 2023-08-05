@@ -97,3 +97,15 @@
 
 2. Simple CNN architecture with Calling GPU
 
+
+
+3. Create Sequential Model
+
+
+
+4. Transfer Learning
+
+
+
+5. Project 
+
