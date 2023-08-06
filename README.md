@@ -99,7 +99,7 @@
 
 
 
-3. Create Sequential Model
+3. Create Sequential Model(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Sequential_CNN_model_in_PyTorch.ipynb`)
 
 
 
