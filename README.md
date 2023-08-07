@@ -107,5 +107,5 @@
 
 
 
-5. Project 
+5. Project(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Project_CNN_Malaria_Disease_Classification_using_PyTorch_%26_TensorFlow.ipynb`)
 
