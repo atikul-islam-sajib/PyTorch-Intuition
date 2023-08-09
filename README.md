@@ -3,7 +3,7 @@
 ##### This repo is dedeicated to learn regarding PyTorch in Deep Learning domain. Each concept is tried to implement using PyTorch Framework. #####
 
 
-## ANN PART ##
+### ANN PART ###
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1 . DataLoader Liabray determines - batch size data which is used to train the model. (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/2_Pytorch_DataLoader.ipynb`)
@@ -123,7 +123,7 @@
 
 
 
-## RNN PART ##
+### RNN PART ###
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. RNN & LSTM
