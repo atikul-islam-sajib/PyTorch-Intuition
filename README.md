@@ -119,7 +119,7 @@
 
 
 
-7. TensorFlow Functional API type Model in PyTorch
+7. TensorFlow Functional API type Model in PyTorch(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Functional_API_alike_in_PyTorch.ipynb`)
 
 
 
