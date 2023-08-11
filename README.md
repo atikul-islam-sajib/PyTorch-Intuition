@@ -115,7 +115,7 @@
 
 
 
-6. Project - 2:
+6. Project - 2: Ensemple Approach with FAPI aslike (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Ensemble_Approach.ipynb`) & ('https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Chicken_Pox_Classification_in_PyTorch_Ensemble_Approach.ipynb')
 
 
 
