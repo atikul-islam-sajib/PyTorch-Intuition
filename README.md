@@ -6,6 +6,10 @@
 ### ANN PART ###
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+0 . Basic Functionalities of Torch(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Torch_postmortem.ipynb`)
+
+
+
 1 . DataLoader Liabray determines - batch size data which is used to train the model. (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/2_Pytorch_DataLoader.ipynb`)
 
 
