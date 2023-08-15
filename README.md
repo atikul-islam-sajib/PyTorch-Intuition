@@ -110,7 +110,7 @@
 
 
 
-4. Transfer Learning
+4. Transfer Learning(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Functional_API_type_model_in_PyTorch_%2B_Transfer_Learning.ipynb`)
 
 
 
