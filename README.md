@@ -127,7 +127,7 @@
 
 
 
-8. Data Augmentation Task 
+8. Data Augmentation Task(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/LAST%20(1).ipynb`)
 
 
 
