@@ -130,6 +130,9 @@
 8. Data Augmentation Task(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/LAST%20(1).ipynb`)
 
 
+9. Residual Block (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Residual_Block.ipynb`)
+
+
 
 ### RNN PART ###
 ------------------------------------------------------------------------------------------------------------------------------------------------------
