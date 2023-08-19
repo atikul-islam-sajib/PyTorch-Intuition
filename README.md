@@ -136,7 +136,7 @@
 ### GAN ####
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1. Simple GAN
+1. Simple GAN(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Vanilla_GAN_in_PyTorch.ipynb`)
 
 
 
