@@ -140,7 +140,7 @@
 
 
 
-2. MNIST GAN
+2. MNIST GAN(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/MINIST_GAN_in_PyTorch.ipynb`)
 
 
 
