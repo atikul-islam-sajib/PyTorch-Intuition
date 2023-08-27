@@ -144,7 +144,7 @@
 
 
 
-3. DGGAN implementation 
+3. DGGAN implementation(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/DGGAN_Image_Generation_in_PyTorch_updated.ipynb`)
 
 
 
