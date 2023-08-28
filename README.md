@@ -133,6 +133,9 @@
 9. Residual Block (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Residual_Block.ipynb`)
 
 
+10. Conv1d 
+
+
 ### GAN ####
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
