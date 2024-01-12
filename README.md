@@ -150,6 +150,9 @@
 3. DGGAN implementation(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/DGGAN_Image_Generation_in_PyTorch_updated.ipynb`)
 
 
+4. CGAN implementation
+
+
 
 ### RNN PART ###
 ------------------------------------------------------------------------------------------------------------------------------------------------------
