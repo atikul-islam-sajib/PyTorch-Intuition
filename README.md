@@ -180,6 +180,9 @@
 14. DiscoGAN (`https://github.com/atikul-islam-sajib/DiscoGAN`)
 
 
+15. DualGAN (`https://github.com/atikul-islam-sajib/DualGAN`)
+
+
 
 ### RNN PART ###
 ------------------------------------------------------------------------------------------------------------------------------------------------------
