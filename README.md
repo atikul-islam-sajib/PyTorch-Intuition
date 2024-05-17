@@ -183,6 +183,9 @@
 15. DualGAN (`https://github.com/atikul-islam-sajib/DualGAN`)
 
 
+16. SeqGAN (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/seGAN.ipynb`)
+
+
 
 ### RNN PART ###
 ------------------------------------------------------------------------------------------------------------------------------------------------------
