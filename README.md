@@ -159,6 +159,9 @@
 7. InfoGAN (`https://github.com/atikul-islam-sajib/InfoGAN`)
 
 
+8. LSGAN (`https://github.com/atikul-islam-sajib/LSGAN`)
+
+
 
 ### RNN PART ###
 ------------------------------------------------------------------------------------------------------------------------------------------------------
