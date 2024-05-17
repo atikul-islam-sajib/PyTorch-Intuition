@@ -177,6 +177,9 @@
 13. CycleGAN (`https://github.com/atikul-islam-sajib/CycleGAN`)
 
 
+14. DiscoGAN (`https://github.com/atikul-islam-sajib/DiscoGAN`)
+
+
 
 ### RNN PART ###
 ------------------------------------------------------------------------------------------------------------------------------------------------------
