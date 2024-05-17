@@ -151,8 +151,12 @@
 
 
 4. CGAN implementation(`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/CGAN.ipynb`)
+   
 
-5. WGAN (`https://github.com/atikul-islam-sajib/GPWGAN`)
+6. WGAN (`https://github.com/atikul-islam-sajib/GPWGAN`)
+
+
+7. InfoGAN (`https://github.com/atikul-islam-sajib/InfoGAN`)
 
 
 
