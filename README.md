@@ -174,6 +174,9 @@
 12. SRGAN (`https://github.com/atikul-islam-sajib/SRGAN`)
 
 
+13. CycleGAN (`https://github.com/atikul-islam-sajib/CycleGAN`)
+
+
 
 ### RNN PART ###
 ------------------------------------------------------------------------------------------------------------------------------------------------------
