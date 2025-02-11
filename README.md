@@ -190,7 +190,7 @@
 ### RNN PART ###
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1. RNN & LSTM
+1. Simple RNN (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Classifier_RNN.ipynb`)
 
 
 2. Bidirectional LSTM & GRU
