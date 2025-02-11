@@ -193,7 +193,7 @@
 1. Simple RNN (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Classifier_RNN.ipynb`)
 
 
-2. Bidirectional LSTM & GRU
+2. Bidirectional LSTM (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Classifier_LSTM.ipynb`)
 
 
 3. Project - Sentimental Classification
