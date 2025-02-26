@@ -192,6 +192,10 @@
 
 1. Simple RNN (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Classifier_RNN.ipynb`)
 
+### MultiModal
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+https://github.com/atikul-islam-sajib/tinyMultiModalClassifier
+
 
 2. Bidirectional LSTM (`https://github.com/atikul-islam-sajib/PyTorch-Intuition/blob/main/Classifier_LSTM.ipynb`)
 
